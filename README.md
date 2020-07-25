@@ -1,3 +1,3 @@
 # Redux-Simples
 
-## projeto simples para aprender aprender o funcionamento do Redux no Reactjs
+## projeto simples para aprender o funcionamento do Redux no Reactjs
